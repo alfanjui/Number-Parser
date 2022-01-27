@@ -1,0 +1,2 @@
+This is an integer parser for the comprehension of spaces given into user input, its usage can be extended through math libraries
+or creation of line edits which require some form of understanding of input separators
